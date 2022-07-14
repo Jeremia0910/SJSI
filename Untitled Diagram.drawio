@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T12:05:05.331Z" agent="5.0 (Windows)" etag="7PPLK6Hu2luV8-gxZ9oK" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-14T12:23:24.410Z" agent="5.0 (Windows)" etag="UCvTTXztwCnlxUZSxINr" version="20.1.1" type="github" pages="7">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -251,11 +251,17 @@
         <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;FREDERICDKUMA &amp;amp; PARTNERS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;ADVOCATES &amp;amp; LEGAL CONSULTANTS&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="351" y="198" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="262" width="396" height="141" as="geometry" />
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="429" y="262" width="332.5" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="429" width="396" height="52" as="geometry" />
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="429" y="429" width="332.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-10" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="242.25" y="320" width="286" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="372.75" y="163.5" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
