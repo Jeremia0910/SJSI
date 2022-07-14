@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T08:02:26.133Z" agent="5.0 (Windows)" etag="0PsFd66PywN47WfejhyE" version="20.1.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-14T08:12:26.006Z" agent="5.0 (Windows)" etag="4Or2fj-rLGe3r8ybJdmh" version="20.1.1" type="github" pages="5">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -291,6 +291,68 @@
           <mxGeometry x="962" y="377" width="52" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cVCnYq54btTsb4PNbmWC-61" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="676" y="416" width="416" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="brVRfn0PeojUZAmQj0vO" name="Page-6">
+    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jhKSj8mz5NiRnVzC94av-1" value="&lt;div&gt;Tampilan halaman employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="31" width="182" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="52.5" y="76" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="52" y="414" width="424" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Employee Form" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="52" y="118" width="424" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-5" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1A1A1A&quot;&gt;Create New Employee&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="327" y="141" width="135.5" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-6" value="&lt;div align=&quot;left&quot;&gt;Data Employee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="182" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-7" value="&lt;div align=&quot;left&quot;&gt;Data Employee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="221" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-8" value="&lt;div align=&quot;left&quot;&gt;Data Employee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="65.5" y="265" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-9" value="&lt;div&gt;Tampilan create new employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="799.5" y="30" width="175.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-10" value="&lt;div&gt;Create New Employee&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="676" y="76" width="416" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-11" value="Enter EmployeeId" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="128" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-12" value="Enter NIK" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="167" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-13" value="Enter Name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="211" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="258" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="686" y="297" width="396" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-16" value="&lt;font color=&quot;#1A1A1A&quot;&gt;submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="377" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-17" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="962" y="377" width="52" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jhKSj8mz5NiRnVzC94av-18" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="676" y="416" width="416" height="41" as="geometry" />
         </mxCell>
       </root>
