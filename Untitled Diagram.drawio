@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T12:23:24.410Z" agent="5.0 (Windows)" etag="UCvTTXztwCnlxUZSxINr" version="20.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-14T12:30:57.470Z" agent="5.0 (Windows)" etag="T1_9tp-vTtsD6heYFpv0" version="20.1.1" type="github" pages="8">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -262,6 +262,38 @@
         </mxCell>
         <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="372.75" y="163.5" width="25" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BESbHZMytgqgeb_Fr6Jv" name="Page-9">
+    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sOS5qAncAUop7MW00AIL-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="104" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="355.75" y="442" width="424" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Tentang Kami&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355.75" y="146" width="424" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="433.75" y="210" width="332.5" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang halaman tentang kami" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="433.75" y="377" width="332.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="247" y="268" width="286" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="111.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sOS5qAncAUop7MW00AIL-8" value="&lt;div&gt;Halaman Tentang Kami&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="507" y="52" width="156" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
