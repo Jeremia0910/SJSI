@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T13:21:23.498Z" agent="5.0 (Windows)" etag="btl4V4GX1stGJP2B3YuD" version="20.1.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-15T12:46:22.188Z" agent="5.0 (Windows)" etag="UoNKC97F7o1IpLxgTOwO" version="20.1.1" type="github" pages="12">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -174,61 +174,61 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cqR3KcZ43krQghv3U6uq-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-16" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="80" y="80" width="240" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-17" value="&lt;div align=&quot;center&quot;&gt;Login&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-17" value="&lt;div align=&quot;center&quot;&gt;Login&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="120" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-18" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-18" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="216" height="10" relative="1" as="geometry">
             <mxPoint x="10" y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-19" value="Email or Username:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-19" value="Email or Username:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="120" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-20" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-20" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="180" height="25" relative="1" as="geometry">
             <mxPoint x="10" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-21" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-21" value="Password:" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="120" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="95" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-22" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-22" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fontColor=#666666;align=left;spacingLeft=5;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry width="180" height="25" relative="1" as="geometry">
             <mxPoint x="10" y="115" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-24" value="Forgot Password?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-24" value="Forgot Password?" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#9999ff;align=left;spacingLeft=0;fontStyle=4;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry y="1" width="180" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="-110" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-25" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-25" value="" style="shape=line;strokeColor=#ddeeff;strokeWidth=2;html=1;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry y="1" width="216" height="10" relative="1" as="geometry">
             <mxPoint x="10" y="-90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-26" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;new user? please register first&lt;/span&gt;&lt;/pre&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-26" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;new user? please register first&lt;/span&gt;&lt;/pre&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;spacingLeft=0;resizeWidth=1;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry y="1" width="180" height="20" relative="1" as="geometry">
             <mxPoint x="10" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-2" value="SignIn" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-2" value="SignIn" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry x="10" y="150" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-1" value="SignUp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="cqR3KcZ43krQghv3U6uq-16">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-1" value="SignUp" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="cqR3KcZ43krQghv3U6uq-16" vertex="1">
           <mxGeometry x="15" y="260" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cqR3KcZ43krQghv3U6uq-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Halaman index atau utama&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cqR3KcZ43krQghv3U6uq-28" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Halaman index atau utama&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="10" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
@@ -239,28 +239,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8UaubRYlyO_xJYh7CFEz-1" value="&lt;span id=&quot;page406R_mcid20&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 151.227px; top: 782.075px; font-size: 16px; font-family: sans-serif; transform: scaleX(0.899532);&quot;&gt;Halaman&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page406R_mcid21&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.827px; top: 782.075px; font-size: 16px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 212.987px; top: 782.075px; font-size: 16px; font-family: sans-serif; transform: scaleX(0.894055);&quot;&gt;utama home adalah halaman yang tampil setalah user login&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="8UaubRYlyO_xJYh7CFEz-1" value="&lt;span id=&quot;page406R_mcid20&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 151.227px; top: 782.075px; font-size: 16px; font-family: sans-serif; transform: scaleX(0.899532);&quot;&gt;Halaman&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;page406R_mcid21&quot; class=&quot;markedContent&quot;&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 208.827px; top: 782.075px; font-size: 16px; font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 212.987px; top: 782.075px; font-size: 16px; font-family: sans-serif; transform: scaleX(0.894055);&quot;&gt;utama home adalah halaman yang tampil setalah user login&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="332" y="65" width="520" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="351.5" y="156" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="351" y="494" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;FREDERICDKUMA &amp;amp; PARTNERS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;ADVOCATES &amp;amp; LEGAL CONSULTANTS&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;FREDERICDKUMA &amp;amp; PARTNERS &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;ADVOCATES &amp;amp; LEGAL CONSULTANTS&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="351" y="198" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="429" y="262" width="332.5" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Penjelasan tentang halaman home" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="429" y="429" width="332.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-10" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-10" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="242.25" y="320" width="286" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="aUOEc2ZG9Jc6EhIkLG3P-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="372.75" y="163.5" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
@@ -271,28 +271,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sOS5qAncAUop7MW00AIL-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="356.25" y="104" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="355.75" y="442" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Tentang Kami&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Tentang Kami&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="355.75" y="146" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="433.75" y="210" width="332.5" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang halaman tentang kami" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Penjelasan tentang halaman tentang kami" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="433.75" y="377" width="332.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="247" y="268" width="286" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="111.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="sOS5qAncAUop7MW00AIL-8" value="&lt;div&gt;Halaman Tentang Kami&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="sOS5qAncAUop7MW00AIL-8" value="&lt;div&gt;Halaman Tentang Kami&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="507" y="52" width="156" height="39" as="geometry" />
         </mxCell>
       </root>
@@ -303,40 +303,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="351.5" y="156" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="351" y="494" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Pelayanan Kami&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-3" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Pelayanan Kami&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="351" y="198" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="418" y="247" width="332.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang hukum perusahaan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-5" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Penjelasan tentang hukum perusahaan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="418" y="312" width="332.5" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="242.25" y="320" width="286" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="372.75" y="163.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-9" value="Hukum Perusahaan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-9" value="Hukum Perusahaan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="416" y="221" width="143" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-10" value="&amp;nbsp;&amp;nbsp; Hak Kekayaan Intelektual" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-10" value="&amp;nbsp;&amp;nbsp; Hak Kekayaan Intelektual" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="403" y="346" width="169" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-11" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-11" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Gambar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="418" y="372" width="332.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Penjelasan tentang hak kekayaan intelektual" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Penjelasan tentang hak kekayaan intelektual" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="416" y="442" width="332.5" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-13" value="Halaman pelayanan kami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="1V9Va-cZdQLTXZQ0H2oM-13" value="Halaman pelayanan kami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="497.75" y="104" width="169" height="26" as="geometry" />
         </mxCell>
       </root>
@@ -347,25 +347,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T447wTXA9jgBcxkxEX4A-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="356.25" y="104" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="355.75" y="442" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Kontak" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Kontak" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="355.75" y="146" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-4" value="Berisi kontak, alamat perusahaan, dan lain sebagainya" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-4" value="Berisi kontak, alamat perusahaan, dan lain sebagainya" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="429" y="179" width="332.5" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-6" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;menu" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="247" y="268" width="286" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/filter-circle-menu-text-form-128.png;fontSize=12;fontColor=#1A1A1A;fillColor=#CCCCCC;imageBackground=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="377.5" y="111.5" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="T447wTXA9jgBcxkxEX4A-8" value="Halaman Kontak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="T447wTXA9jgBcxkxEX4A-8" value="Halaman Kontak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="509.75" y="65" width="117" height="26" as="geometry" />
         </mxCell>
       </root>
@@ -376,67 +376,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-1" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="104" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="52" y="442" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="52" y="146" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-4" value="&lt;font color=&quot;#1A1A1A&quot;&gt;Add&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-4" value="&lt;font color=&quot;#1A1A1A&quot;&gt;Add&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="362" y="298.5" width="104" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="66.5" y="155.5" width="396" height="130.5" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-6" value="&lt;div align=&quot;left&quot;&gt;Data Transaksi yang sudah diisi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-6" value="&lt;div align=&quot;left&quot;&gt;Data Transaksi yang sudah diisi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="66" y="378.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="UHvnkVBWTykB1yqVvgGQ-7" value="&lt;div align=&quot;left&quot;&gt;Data Transaksi yang sudah diisi&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="UHvnkVBWTykB1yqVvgGQ-7" value="&lt;div align=&quot;left&quot;&gt;Data Transaksi yang sudah diisi&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="66.5" y="338" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-1" value="&lt;div&gt;Create New &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-1" value="&lt;div&gt;Create New &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="676" y="103.5" width="416" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-2" value="Enter userid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-2" value="Enter userid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="155.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-3" value="Enter noTransaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-3" value="Enter noTransaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="194.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-4" value="Enter CaseId" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-4" value="Enter CaseId" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="238.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="285.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="324.5" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-7" value="&lt;font color=&quot;#1A1A1A&quot;&gt;submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-7" value="&lt;font color=&quot;#1A1A1A&quot;&gt;submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1027" y="404.5" width="52" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-8" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-8" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="962" y="404.5" width="52" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="KQrqCSVkwu8wQbqjxwqa-10" value="Tampilan Halaman Transaksi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="KQrqCSVkwu8wQbqjxwqa-10" value="Tampilan Halaman Transaksi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="167" y="52" width="195" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q5D7WyAufcTmp0nhNx8E-1" value="Tampilan form ADD pada menu transaksi" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="q5D7WyAufcTmp0nhNx8E-1" value="Tampilan form ADD pada menu transaksi" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="780" y="52" width="234" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="q5D7WyAufcTmp0nhNx8E-2" value="&lt;font color=&quot;#1A1A1A&quot;&gt;Process&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="q5D7WyAufcTmp0nhNx8E-2" value="&lt;font color=&quot;#1A1A1A&quot;&gt;Process&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="413.5" width="104" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q5D7WyAufcTmp0nhNx8E-3" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="q5D7WyAufcTmp0nhNx8E-3" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="168.5" width="193" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q5D7WyAufcTmp0nhNx8E-4" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="q5D7WyAufcTmp0nhNx8E-4" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="207.75" width="193" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="q5D7WyAufcTmp0nhNx8E-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="q5D7WyAufcTmp0nhNx8E-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="247" width="193" height="26" as="geometry" />
         </mxCell>
       </root>
@@ -447,55 +447,55 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cVCnYq54btTsb4PNbmWC-1" value="&lt;div&gt;Tampilan halaman user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-1" value="&lt;div&gt;Tampilan halaman user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="188.5" y="30" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="76" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-7" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="52" y="414" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;User Setup" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-12" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;User Setup" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="52" y="118" width="424" height="296" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-17" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1A1A1A&quot;&gt;Create New User&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-17" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1A1A1A&quot;&gt;Create New User&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="358.5" y="141" width="104" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-20" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-20" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="66.5" y="182" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-21" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-21" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="66.5" y="221" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-22" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-22" value="&lt;div align=&quot;left&quot;&gt;Data User&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="65.5" y="265" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-23" value="&lt;div&gt;Tampilan create new user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-23" value="&lt;div&gt;Tampilan create new user&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="799.5" y="30" width="169" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-53" value="&lt;div&gt;Create New User&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-53" value="&lt;div&gt;Create New User&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="676" y="76" width="416" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-54" value="Enter First Name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-54" value="Enter First Name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="128" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-55" value="Enter Last Name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-55" value="Enter Last Name" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="167" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-56" value="Enter Email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-56" value="Enter Email" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="211" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="258" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
           <mxGeometry x="686" y="297" width="396" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-59" value="&lt;font color=&quot;#1A1A1A&quot;&gt;submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-59" value="&lt;font color=&quot;#1A1A1A&quot;&gt;submit&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1027" y="377" width="52" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cVCnYq54btTsb4PNbmWC-60" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="cVCnYq54btTsb4PNbmWC-60" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="962" y="377" width="52" height="26" as="geometry" />
         </mxCell>
       </root>
@@ -509,13 +509,13 @@
         <mxCell id="jhKSj8mz5NiRnVzC94av-1" value="&lt;div&gt;Tampilan halaman employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="31" width="182" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="jhKSj8mz5NiRnVzC94av-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="jhKSj8mz5NiRnVzC94av-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="76" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jhKSj8mz5NiRnVzC94av-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="jhKSj8mz5NiRnVzC94av-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="52" y="414" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="jhKSj8mz5NiRnVzC94av-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Employee Form" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="jhKSj8mz5NiRnVzC94av-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Employee Form" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="52" y="118" width="424" height="296" as="geometry" />
         </mxCell>
         <mxCell id="jhKSj8mz5NiRnVzC94av-5" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1A1A1A&quot;&gt;Create New Employee&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
@@ -568,13 +568,13 @@
         <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-1" value="&lt;div&gt;Tampilan halaman client&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="179.5" y="31" width="169" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-2" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Header" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="52.5" y="76" width="424" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-3" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Footer" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="52" y="414" width="424" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Client" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-4" value="&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Client" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="52" y="118" width="424" height="296" as="geometry" />
         </mxCell>
         <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-5" value="&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#1A1A1A&quot;&gt;Create New Client&lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
@@ -615,6 +615,104 @@
         </mxCell>
         <mxCell id="Ue3ZQlDe8iyN_ZsdvqKq-17" value="&lt;font color=&quot;#1A1A1A&quot;&gt;cancel&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#CCCCCC;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="962" y="377" width="52" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K3nFiTYWO8ESb1gIZxOO" name="Page-13">
+    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pR6fUq7sIP4kyJil0QzS-8" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=30;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="430" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="pR6fUq7sIP4kyJil0QzS-9" value="User" style="swimlane;startSize=40;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-8">
+          <mxGeometry x="30" width="200" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="L8k4eqa4GUhO-Y7MtywY-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry x="70" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="84.5" y="80" as="sourcePoint" />
+            <mxPoint x="85" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-6" value="&lt;div&gt;Mengakses website&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry x="27.5" y="110" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142.5" y="124" as="sourcePoint" />
+            <mxPoint x="260" y="124" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-12" value="&lt;div&gt;Memilih Registrasi&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry x="27.5" y="190" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="220" as="sourcePoint" />
+            <mxPoint x="260" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-15" value="&lt;div&gt;Mengisi&lt;br&gt;&lt;/div&gt;&lt;div&gt;form Registrasi&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry x="22.5" y="276" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="pR6fUq7sIP4kyJil0QzS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="311" as="sourcePoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-3" value="Sistem" style="swimlane;startSize=40;" vertex="1" parent="pR6fUq7sIP4kyJil0QzS-8">
+          <mxGeometry x="230" width="200" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-9" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Halaman Login&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry x="60" y="110" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-5" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;" edge="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="140" as="sourcePoint" />
+            <mxPoint x="-120" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-14" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Halaman Registrasi&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry x="60" y="225" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Vb_LpzIZwofj9eds5D6v-3" target="Vb_LpzIZwofj9eds5D6v-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124" y="260" as="sourcePoint" />
+            <mxPoint x="-50" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="124" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-17" value="&lt;div&gt;Menyimpan data user dan&lt;/div&gt;&lt;div&gt;menampilkan form login&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry x="40" y="340" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="114.5" y="390" as="sourcePoint" />
+            <mxPoint x="115" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L8k4eqa4GUhO-Y7MtywY-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="Vb_LpzIZwofj9eds5D6v-3">
+          <mxGeometry x="100" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-1" value="&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;ACTIVITY DIAGRAM USER UNTUK REGISTRASI" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="370" y="90" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
