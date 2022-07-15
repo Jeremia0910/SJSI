@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T12:47:06.751Z" agent="5.0 (Windows)" etag="6pqcSsv0M50regSrEBaY" version="20.1.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-07-15T12:48:36.544Z" agent="5.0 (Windows)" etag="iiHYq5SKwSWqaTUmMMH-" version="20.1.1" type="github" pages="12">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -713,6 +713,9 @@
         </mxCell>
         <mxCell id="Vb_LpzIZwofj9eds5D6v-1" value="&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;ACTIVITY DIAGRAM USER UNTUK REGISTRASI" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="370" y="90" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vb_LpzIZwofj9eds5D6v-19" value="&lt;div&gt;UNTUK USER BARU&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="30" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
