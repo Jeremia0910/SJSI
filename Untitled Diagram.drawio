@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T02:52:07.694Z" agent="5.0 (Windows)" etag="AB9wt_k6agJgH5oBZIgd" version="20.1.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2022-07-16T02:52:38.312Z" agent="5.0 (Windows)" etag="1Rl3u-9hmVN9gZCf-owO" version="20.1.1" type="github" pages="16">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1208,8 +1208,8 @@
         <mxCell id="eYCwTqgIqjyqzwZiKI2R-1" value="&lt;div&gt;Proses Input Data Employee&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="eYCwTqgIqjyqzwZiKI2R-2" value="Proses Edit Data User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="795" y="40" width="150" height="30" as="geometry" />
+        <mxCell id="eYCwTqgIqjyqzwZiKI2R-2" value="Proses Edit Data Employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="40" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eYCwTqgIqjyqzwZiKI2R-3" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-130" y="120" width="620" height="600" as="geometry" />
