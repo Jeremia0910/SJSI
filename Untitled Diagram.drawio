@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T03:40:30.916Z" agent="5.0 (Windows)" etag="EaP1zd6dlmyIcYR6PB0Q" version="20.1.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-07-23T08:03:53.162Z" agent="5.0 (Windows)" etag="D5TNs6-VcOH3-2Jk8fON" version="20.1.3" type="github" pages="23">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1673" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -2745,6 +2745,14 @@
         <mxCell id="yETXvCegDURc3UEw5-_A-1" value="ALUR WEBSITE MENGGUNAKAN FLOWMAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="50" width="270" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1XaCMb6MXW0TksBQNanA" name="Page-24">
+    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
