@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T03:39:33.916Z" agent="5.0 (Windows)" etag="of8K-BAykjn6AL6uV6C0" version="20.1.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-07-23T03:40:30.916Z" agent="5.0 (Windows)" etag="EaP1zd6dlmyIcYR6PB0Q" version="20.1.3" type="github" pages="22">
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
     <mxGraphModel dx="1673" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -2473,7 +2473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P6blMQYfqvmj1Y159WQ2" name="Page-25">
-    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2741,6 +2741,9 @@
         </mxCell>
         <mxCell id="awcM6Zko4H278l9EA25d-21" value="&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Proses " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="880" y="120" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yETXvCegDURc3UEw5-_A-1" value="ALUR WEBSITE MENGGUNAKAN FLOWMAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
