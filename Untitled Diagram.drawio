@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T15:47:24.037Z" agent="5.0 (Windows)" etag="sZw8MZ1FlIEebiymeCrT" version="20.2.0" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-07-23T15:48:46.365Z" agent="5.0 (Windows)" etag="ZA2ll7ekepkHwljsRAii" version="20.2.0" type="github" pages="22">
   <diagram id="P6blMQYfqvmj1Y159WQ2" name="Page-25">
     <mxGraphModel dx="1654" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -1474,7 +1474,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y0uyGvE7ji9k4R-9KFgV" name="Page-16">
-    <mxGraphModel dx="2591" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2575" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1792,18 +1792,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lFQWpeM29Snz4z57IzoN" name="Page-17">
-    <mxGraphModel dx="2591" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2823" dy="1033" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--1" value="&lt;div&gt;Proses Input Data Client&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="-290" y="44" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--2" value="Proses Edit Data Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="795" y="40" width="150" height="30" as="geometry" />
+          <mxGeometry x="405" y="44" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--3" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="120" width="620" height="600" as="geometry" />
+          <mxGeometry x="-520" y="124" width="620" height="600" as="geometry" />
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--4" value="Client" style="swimlane;startSize=40;rounded=1;arcSize=3;" parent="4v4weUn6a5Pv4F6R1Ns--3" vertex="1">
           <mxGeometry x="20" width="200" height="600" as="geometry" />
@@ -1939,10 +1939,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--29" value="&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Activity Diagram&amp;nbsp; Proses Input Data Client" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="80" width="620" height="40" as="geometry" />
+          <mxGeometry x="-520" y="84" width="620" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--30" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="120" width="620" height="660" as="geometry" />
+          <mxGeometry x="170" y="124" width="620" height="660" as="geometry" />
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--31" value="Client" style="swimlane;startSize=40;rounded=1;arcSize=3;" parent="4v4weUn6a5Pv4F6R1Ns--30" vertex="1">
           <mxGeometry x="20" width="200" height="660" as="geometry" />
@@ -2104,13 +2104,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4v4weUn6a5Pv4F6R1Ns--62" value="&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Activity Diagram&amp;nbsp; Proses Input Data Client" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="560" y="80" width="620" height="40" as="geometry" />
+          <mxGeometry x="170" y="84" width="620" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="ncZM6uDyh2Xc6N1ByjaD" name="Page-18">
-    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2229,7 +2229,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9d-Wr6Eqt2pj4gd-I5BO" name="Page-19">
-    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2371,7 +2371,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dEHuRLAEOf0T9J9OspnR" name="Page-21">
-    <mxGraphModel dx="1422" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
