@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T04:08:01.821Z" agent="5.0 (Windows)" etag="LVkAGUrvzlbRI6HFjMOs" version="20.2.3" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2022-08-05T04:31:10.251Z" agent="5.0 (Windows)" etag="v0v_wk_oo4bvundBADWT" version="20.2.3" type="github" pages="32">
   <diagram id="6OjNWPxb-QzWnZm9G5q2" name="Page-24">
     <mxGraphModel dx="1902" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5483,6 +5483,15 @@
         </mxCell>
         <mxCell id="PkJQMKA_fGrcG12YTWQq-261" value="Simple Atribut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="1400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PkJQMKA_fGrcG12YTWQq-262" value="Contributor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PkJQMKA_fGrcG12YTWQq-263" value="Receives" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="1160" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PkJQMKA_fGrcG12YTWQq-264" value="is distributed in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1310" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
