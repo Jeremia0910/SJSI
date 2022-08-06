@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-06T06:08:45.881Z" agent="5.0 (Windows)" etag="zlN2C2dGFirX2MUriHw5" version="20.2.3" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2022-08-06T06:24:56.638Z" agent="5.0 (Windows)" etag="IFLcNtssyKNXC2JStt-n" version="20.2.3" type="github" pages="33">
   <diagram id="PTJbhvLQNYXYQUyr1JOs" name="Page-32">
     <mxGraphModel dx="1646" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -5427,7 +5427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="N109iz30GWfVo2edygNz" name="Page-35">
-    <mxGraphModel dx="1135" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="784" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5488,33 +5488,30 @@
             <mxPoint x="490" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tf1N5HC_4vakY-4-Zq7y-8" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="M9DdaB9EedQ6luYLpfAr-1">
+        <mxCell id="Tf1N5HC_4vakY-4-Zq7y-8" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.559;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6IPBmHg_z6LyskHk2_54-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="280" as="sourcePoint" />
+            <mxPoint x="670" y="265" as="sourcePoint" />
             <mxPoint x="560" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="320" />
+              <mxPoint x="670" y="265" />
+              <mxPoint x="670" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M9DdaB9EedQ6luYLpfAr-1" value="Verifikasi login" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="195" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="M9DdaB9EedQ6luYLpfAr-2" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="M9DdaB9EedQ6luYLpfAr-4" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.556;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6IPBmHg_z6LyskHk2_54-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="709.9999999999993" y="229.58" as="sourcePoint" />
-            <mxPoint x="775.0000000000002" y="229.58" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M9DdaB9EedQ6luYLpfAr-4" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="195" as="sourcePoint" />
+            <mxPoint x="670" y="200" as="sourcePoint" />
             <mxPoint x="490" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="180" />
-              <mxPoint x="520" y="180" />
+              <mxPoint x="670" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M9DdaB9EedQ6luYLpfAr-5" value="selesai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="264" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9DdaB9EedQ6luYLpfAr-6" value="belum selesai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="150" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
