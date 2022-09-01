@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T08:22:52.578Z" agent="5.0 (Windows)" etag="sBEubf27wAZeiqxJAXvP" version="20.2.3" type="github" pages="37">
+<mxfile host="app.diagrams.net" modified="2022-09-01T08:23:24.258Z" agent="5.0 (Windows)" etag="DcI2qayBsMDfwgfhiua2" version="20.2.3" type="github" pages="37">
   <diagram id="NxUOXVD1wB7RtB5-tJ0-" name="Page-39">
     <mxGraphModel dx="1646" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="WOU70uKFySoy1lHlvdCE-1" value="selesai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="830" y="314" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVJl-NLIIE4Wn6xzGfUa-1" value="Process" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="xVJl-NLIIE4Wn6xzGfUa-1" value="&lt;div&gt;Sudah &lt;br&gt;&lt;/div&gt;&lt;div&gt;selesai&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="850" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xVJl-NLIIE4Wn6xzGfUa-2" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
