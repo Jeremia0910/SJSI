@@ -1,4 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T08:19:07.567Z" agent="5.0 (Windows)" etag="XcFKegrKFg72OeB3RGG0" version="20.3.2" type="github" pages="42">
+<mxfile host="app.diagrams.net" modified="2022-09-21T08:19:29.860Z" agent="5.0 (Windows)" etag="UoKTqm62StlD3Ro8oXwS" version="20.3.2" type="github" pages="42">
+  <diagram id="1bV5Ci7Y2ZSaYSAEjGMK" name="Page-44">
+    <mxGraphModel dx="1077" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="505" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-2" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.5" y="170" as="sourcePoint" />
+            <mxPoint x="545" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-7" value="&lt;div&gt;Mengakses &lt;br&gt;&lt;/div&gt;&lt;div&gt;website&lt;/div&gt;&lt;div&gt;Virtual &lt;br&gt;&lt;/div&gt;&lt;div&gt;museum&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="205" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-15" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="505" y="660" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-18" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.4099999999999" y="620" as="sourcePoint" />
+            <mxPoint x="545" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-19" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.7099999999998" y="270" as="sourcePoint" />
+            <mxPoint x="545.2999999999995" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-21" value="&lt;div&gt;Menampilkan&lt;/div&gt;&lt;div&gt;Virtual&lt;br&gt;&lt;/div&gt;&lt;div&gt;tour museum&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-22" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.7099999999998" y="380" as="sourcePoint" />
+            <mxPoint x="545.2999999999995" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-24" value="&lt;div&gt;Memilih &lt;br&gt;&lt;/div&gt;&lt;div&gt;Panorama 360&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-27" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544.4099999999999" y="490" as="sourcePoint" />
+            <mxPoint x="544.9999999999995" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nvnUelOCKx2UL3WW6R_6-28" value="Menampilkan pilihan via hotspot ataupun via side bar" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="540" width="115" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="GrLfFagxhP9dWYbgrig6" name="Page-43">
     <mxGraphModel dx="1077" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -6893,71 +6958,6 @@
               <mxPoint x="670" y="40" />
             </Array>
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="1bV5Ci7Y2ZSaYSAEjGMK" name="Page-44">
-    <mxGraphModel dx="1077" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="505" y="130" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-2" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.5" y="170" as="sourcePoint" />
-            <mxPoint x="545" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="210" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-7" value="&lt;div&gt;Mengakses &lt;br&gt;&lt;/div&gt;&lt;div&gt;website&lt;/div&gt;&lt;div&gt;Virtual &lt;br&gt;&lt;/div&gt;&lt;div&gt;museum&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="205" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-15" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="505" y="660" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-18" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.4099999999999" y="620" as="sourcePoint" />
-            <mxPoint x="545" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-19" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.7099999999998" y="270" as="sourcePoint" />
-            <mxPoint x="545.2999999999995" y="320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-21" value="&lt;div&gt;Menampilkan&lt;/div&gt;&lt;div&gt;Virtual&lt;br&gt;&lt;/div&gt;&lt;div&gt;tour museum&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="320" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-22" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.7099999999998" y="380" as="sourcePoint" />
-            <mxPoint x="545.2999999999995" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-24" value="&lt;div&gt;Memilih &lt;br&gt;&lt;/div&gt;&lt;div&gt;Panorama 360&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="440" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-27" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544.4099999999999" y="490" as="sourcePoint" />
-            <mxPoint x="544.9999999999995" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nvnUelOCKx2UL3WW6R_6-28" value="Menampilkan pilihan via hotspot ataupun via side bar" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="487.5" y="540" width="115" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
