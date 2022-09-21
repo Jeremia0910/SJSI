@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T06:55:32.508Z" agent="5.0 (Windows)" etag="CBI_Xz_k3SV9UPR5Ze8i" version="20.3.2" type="github" pages="40">
+<mxfile host="app.diagrams.net" modified="2022-09-21T07:23:56.869Z" agent="5.0 (Windows)" etag="RbGvjUQ-g_DK7v_7Ygku" version="20.3.2" type="github" pages="40">
   <diagram id="mo1m5A9iBo9JqbU-6_o4" name="Page-40">
     <mxGraphModel dx="1257" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -6692,21 +6692,69 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cHNEvSIveG5oBq_Aq1N8" name="Page-42">
-    <mxGraphModel dx="685" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jtQXzpohm0v7X2Pa-XdB-8" value="&lt;div style=&quot;font-size: 20px;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1A1A1A&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Identifikasi Masalah&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="62.5" y="120" width="424" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-34" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#1A1A1A;" edge="1" parent="1" source="jtQXzpohm0v7X2Pa-XdB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jtQXzpohm0v7X2Pa-XdB-10" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="62" y="160" width="424" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="jtQXzpohm0v7X2Pa-XdB-12" value="&lt;div align=&quot;left&quot;&gt;1. Belum terdapat Website Virtual Museum di UPTD Taman Budaya dan Musem Negeri Banten, sehingga menyebabkan Museum menjadi kurang menarik&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-12" value="&lt;div align=&quot;justify&quot;&gt;1. Belum terdapat &lt;i&gt;Website Virtual &lt;/i&gt;Museum di UPTD Taman Budaya dan Musem Negeri Banten, sehingga menyebabkan Museum menjadi kurang menarik&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="76.5" y="192" width="396" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="jtQXzpohm0v7X2Pa-XdB-14" value="2. Kurangnya minat pengunjung terhadap Museum itu sendiri dan juga pembatasan pengunjung ke dalam museum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-14" value="&lt;div align=&quot;justify&quot;&gt;2. Kurangnya minat pengunjung terhadap Museum itu sendiri dan juga pembatasan pengunjung ke dalam museum&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
           <mxGeometry x="75.5" y="275" width="396" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-35" value="&lt;div style=&quot;font-size: 20px;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1A1A1A&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Rancangan Penelitian&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="120" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-39" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#1A1A1A;" edge="1" parent="1" source="jtQXzpohm0v7X2Pa-XdB-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="861.9999999999998" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-36" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="424" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-37" value="&lt;div align=&quot;justify&quot;&gt;Membuat sebuah &lt;i&gt;website virtual&lt;/i&gt; museum pada UPTD Taman Budaya dan Museum Negeri Banten menggunakan &lt;i&gt;HTML&lt;/i&gt;, &lt;i&gt;CSS&lt;/i&gt;, &lt;i&gt;Virtual Tour&lt;/i&gt;, dan juga &lt;i&gt;Virtual Reality Photography&lt;/i&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="665.25" y="216" width="393.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-40" value="&lt;div style=&quot;font-size: 20px;&quot; align=&quot;center&quot;&gt;&lt;font color=&quot;#1A1A1A&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Peluang&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="651" y="520" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-46" value="" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#1A1A1A;" edge="1" parent="1" source="jtQXzpohm0v7X2Pa-XdB-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-41" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="560" width="424" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-42" value="&lt;div align=&quot;justify&quot;&gt;1. Membuat rancangan pada sistem &lt;i&gt;virtual &lt;/i&gt;museum berbasis &lt;i&gt;website&lt;/i&gt; pada UPTD Taman Budaya dan Museum Negeri Banten&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="665" y="592" width="396" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-43" value="2. Membuat halaman &lt;i&gt;Virtual &lt;/i&gt;Museum" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="664" y="675" width="394.75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-44" value="&lt;div align=&quot;justify&quot;&gt;3.Memberikan alternatif atau kemudahan kepada masyarakat dalam mengakses benda-benda sejarah yang terdapat pada UPTD Taman Budaya dan Museum Negeri Banten tanpa perlu datang secara langsung &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="664" y="750" width="396" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-47" value="&lt;div style=&quot;font-size: 20px;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;font color=&quot;#1A1A1A&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hasil yang diinginkan&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="76" y="600" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-48" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="75.5" y="640" width="424" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="jtQXzpohm0v7X2Pa-XdB-49" value="&lt;div align=&quot;center&quot;&gt;Pembuatan &lt;i&gt;Website Virtual &lt;/i&gt;Museum ini untuk mempermudah pengunjung agar dapat menikmati suasana Museum Negeri Banten kapan saja dan dimana saja yang mana menjadikan Museum menjadi promosi di dunia digital untuk menarik kembali minat masyarakat yang mulai berkurang terhadap museum&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="680" width="396" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
