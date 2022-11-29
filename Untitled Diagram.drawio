@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T13:05:16.213Z" agent="5.0 (Windows)" etag="OoemuZLU-Xa_JlyKJVo-" version="20.3.2" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2022-11-29T13:49:58.344Z" agent="5.0 (Windows)" etag="qVGa1Up0DVp5Gz_422Qc" version="20.3.2" type="github" pages="43">
   <diagram id="1bV5Ci7Y2ZSaYSAEjGMK" name="Page-44">
     <mxGraphModel dx="1262" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -6963,7 +6963,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XBE2lF3AnMxYkrl5EJig" name="Page-45">
-    <mxGraphModel dx="601" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1262" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7059,6 +7059,18 @@
               <mxPoint x="690" y="250" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cPicgCEmqNGHUVAu3EDp-19" value="&lt;div tabindex=&quot;0&quot; id=&quot;tw-target-text-container&quot; class=&quot;tw-ta-container F0azHf tw-nfl&quot;&gt;&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;login process&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="95" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cPicgCEmqNGHUVAu3EDp-20" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;registration process&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="125" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cPicgCEmqNGHUVAu3EDp-21" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt; Client inputs data &lt;/span&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="15" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cPicgCEmqNGHUVAu3EDp-22" value="&lt;pre dir=&quot;ltr&quot; style=&quot;text-align:left&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;Terjemahan&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;&gt;transaction process&lt;/span&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="165" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
