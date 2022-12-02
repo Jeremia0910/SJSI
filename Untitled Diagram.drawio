@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T11:49:42.367Z" agent="5.0 (Windows)" etag="ao-MudWkDQKeyVcY0vd2" version="20.3.2" type="github" pages="43">
+<mxfile host="app.diagrams.net" modified="2022-12-02T11:52:33.700Z" agent="5.0 (Windows)" etag="-Iv55-u7yvDyQ018eu7i" version="20.3.2" type="github" pages="43">
   <diagram id="mwJRpPXjO91YDwyrut9o" name="Page-28">
     <mxGraphModel dx="1683" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -237,9 +237,6 @@
               <mxPoint x="95" y="1360" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HMr4iSZ8IX_Iy06dEaK1-21" value="&lt;div style=&quot;font-size: 20px;&quot; align=&quot;center&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;Aktivitas User&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="840" y="120" width="620" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
