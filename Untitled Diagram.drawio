@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T08:03:00.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="nNii4usdG21Fu6E4J87A" version="21.3.7" type="github" pages="50">
+<mxfile host="app.diagrams.net" modified="2023-06-20T08:03:39.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Ug5t30s-eDMg5P5CW20v" version="21.3.7" type="github" pages="50">
   <diagram id="2W9iKWAKNqXhYnSqwjMz" name="Page-46">
     <mxGraphModel dx="1820" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7411,6 +7411,9 @@
         </mxCell>
         <mxCell id="oJjC7Uz4ThuRwDvR5zcU-14" value="Pantai F" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="300" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oJjC7Uz4ThuRwDvR5zcU-15" value="Background pantai beserta quotes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="389" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
