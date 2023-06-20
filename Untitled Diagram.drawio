@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T08:57:05.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="i0I3fSPtu1Uat-NXZ8Gf" version="21.3.7" type="github" pages="57">
+<mxfile host="app.diagrams.net" modified="2023-06-20T08:58:19.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="DeuNBfRZWSsQWJ5etrE6" version="21.3.7" type="github" pages="57">
   <diagram id="2W9iKWAKNqXhYnSqwjMz" name="Page-46">
     <mxGraphModel dx="1820" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7988,7 +7988,7 @@
         <mxCell id="rECtcYGGx3cKly51Hq5U-2" value="User" style="swimlane;startSize=40;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-1">
           <mxGeometry x="30" width="200" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="rECtcYGGx3cKly51Hq5U-3" value="&lt;div&gt;Membuka website&lt;/div&gt;&lt;div&gt;Virtual Museum&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-2">
+        <mxCell id="rECtcYGGx3cKly51Hq5U-3" value="&lt;div&gt;Membuka website&lt;/div&gt;&lt;div&gt;Wisata Pantai Bahari&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-2">
           <mxGeometry x="16.25" y="120" width="118.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rECtcYGGx3cKly51Hq5U-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="rECtcYGGx3cKly51Hq5U-2">
@@ -7997,7 +7997,7 @@
             <mxPoint x="253.75" y="139.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rECtcYGGx3cKly51Hq5U-5" value="&lt;div&gt;Memilih Panorama&lt;/div&gt;&lt;div&gt;360&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-2">
+        <mxCell id="rECtcYGGx3cKly51Hq5U-5" value="&lt;div&gt;Memilih menu &lt;br&gt;&lt;/div&gt;&lt;div&gt;about us&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-2">
           <mxGeometry x="20" y="210" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rECtcYGGx3cKly51Hq5U-6" value="" style="elbow=vertical;endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="rECtcYGGx3cKly51Hq5U-2">
@@ -8065,7 +8065,7 @@
             <mxPoint x="-121.25" y="119.99999999999989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rECtcYGGx3cKly51Hq5U-16" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;Virtual tour museum&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-13">
+        <mxCell id="rECtcYGGx3cKly51Hq5U-16" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;menu Home&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="rECtcYGGx3cKly51Hq5U-13">
           <mxGeometry x="53.75" y="120" width="116.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rECtcYGGx3cKly51Hq5U-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;" edge="1" parent="rECtcYGGx3cKly51Hq5U-13">
