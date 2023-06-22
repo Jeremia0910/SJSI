@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T09:30:38.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="BuHS2rS_tvpf8LNVmVqM" version="21.3.7" type="github" pages="58">
+<mxfile host="app.diagrams.net" modified="2023-06-22T04:55:45.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="pw731j5Gq2Zil6_nS0Ef" version="21.3.7" type="github" pages="59">
   <diagram id="2W9iKWAKNqXhYnSqwjMz" name="Page-46">
     <mxGraphModel dx="1820" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8246,6 +8246,92 @@
         </mxCell>
         <mxCell id="xzHr1q3PmVN7JroRDogu-22" value="&lt;div&gt;UNTUK USER BARU&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="30" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AIk4h32keGrx-bLgDZYd" name="Page-61">
+    <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-5" value="Penanggung Jawab Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-6" target="sn5ukvMjIA6OVcdcsHfC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="330" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-8" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-9" target="sn5ukvMjIA6OVcdcsHfC-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="330" as="sourcePoint" />
+            <mxPoint x="690" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-11" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="280" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-12" target="sn5ukvMjIA6OVcdcsHfC-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="330" as="sourcePoint" />
+            <mxPoint x="930" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-14" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="230" as="sourcePoint" />
+            <mxPoint x="910" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="280" as="sourcePoint" />
+            <mxPoint x="410" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="280" as="sourcePoint" />
+            <mxPoint x="910" y="231" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654.5" y="249" as="sourcePoint" />
+            <mxPoint x="654.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-19" value="Pak Raiman" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="170" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-20" value="Pak Iting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-21" value="Pak Jhon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-22" value="Pak Iyon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="320" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
