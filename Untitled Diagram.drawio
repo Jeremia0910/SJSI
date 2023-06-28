@@ -1,92 +1,179 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T11:40:00.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="ituChiK_1saBLBy99Vbt" version="21.3.7" type="github" pages="59">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:28:32.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="AMT1kEOQTtcugBk6WTXE" version="21.3.7" type="github" pages="60">
+  <diagram id="jGd9saIlMAcPVEykTeLr" name="Page-62">
+    <mxGraphModel dx="766" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="329" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Identifikasi Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="235" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-4" value="&lt;div align=&quot;justify&quot;&gt;1. Sebagian besar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokal maupun luar daerah.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-5" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="239.53" y="393" width="60.95" height="40.21" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-6" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=19;shape=flexArrow;width=26;endWidth=39;endSize=13.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="671" as="sourcePoint" />
+            <mxPoint x="650" y="131" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="671" />
+              <mxPoint x="570" y="131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-7" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&amp;nbsp;2. &lt;span&gt;Objek wisata pantai florida tidak dapat mempromosikan fasilitas yangdimiliki karena kurangnya SDM dalam mengembangkan promosi website tersebut.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="173.5" width="320" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-9" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&lt;span&gt;3.Belum mempunyai website untuk menarik pengunjung lokal ataupun pengunjung dari luar daerah.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="290" width="320" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="70" width="329" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Rancangan Penelitian&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="815" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-18" value="&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Merancang website pantai florida dan pantai lainnya dengan tujuan agar dapat mempromosikan dan memberikan informasi mengenai objek-objek wisata yangada di daerah pantai florida&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="689.5" y="100" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-19" value="&lt;div align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Pemberdayaan SDM mengenai promosi berbasis &lt;i&gt;website &lt;/i&gt;wisata pantai florida anyer agar para wisatawan lokal maupun luar daerah lebih mudah dalam mendapatkan informasi mengenai wisata pantai florida dan pantai lainnya.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-20" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="819.53" y="393" width="60.95" height="40.21" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-22" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="329" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil yang diinginkan&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="815" y="470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-24" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Pembuatan Website ini agar dapat memberikan informasi lebih lengkap mengenai wisata pantai florida anyer sehingga wisata yang ada di daerah Pantai florida dapat dikenali lebih banyak oleh para wisatawan lokal maupun diluar daerah pantaiflorida dan masyarakat maupun wisatawan juga dapat mengakses informasi wisata florida dengan informasi yang lebih lengkap dan akurat.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="310" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-34" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-35" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="329" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;Rumusan Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="235" y="460" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-37" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;&lt;span&gt;1. Bagaimana caranya agar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokalmaupun luar daerah ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-38" value="&lt;div style=&quot;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;&lt;span&gt;2. Bagaimana merancang website wisata pantai florida anyer dan pantai lainnya sebagai mediasarana promosi pariwisata dan dapat memberikan informasi kepada wisatawan lokalmaupun luar daerah tentang wisata pantai florida ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="570" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QeIEo_c_-pm4NhkYrNWw-39" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;3. Bagaimana Implementasi pengembangan SDM mengenai&lt;i&gt; website &lt;/i&gt;wisata pantai florida dan pantai lainnya sebagai sarana promosi pariwisata dan informasi bagi wisatawan?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="110" y="690" width="320" height="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="AIk4h32keGrx-bLgDZYd" name="Page-61">
     <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="130" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-5" value="Penanggung Jawab Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-5" value="Penanggung Jawab Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="130" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="280" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-6" target="sn5ukvMjIA6OVcdcsHfC-6">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sn5ukvMjIA6OVcdcsHfC-6" target="sn5ukvMjIA6OVcdcsHfC-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="330" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-8" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-8" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="280" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="280" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-9" target="sn5ukvMjIA6OVcdcsHfC-9">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sn5ukvMjIA6OVcdcsHfC-9" target="sn5ukvMjIA6OVcdcsHfC-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="330" as="sourcePoint" />
             <mxPoint x="690" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-11" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-11" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="280" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="780" y="280" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-12" target="sn5ukvMjIA6OVcdcsHfC-12">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sn5ukvMjIA6OVcdcsHfC-12" target="sn5ukvMjIA6OVcdcsHfC-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="830" y="330" as="sourcePoint" />
             <mxPoint x="930" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-14" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-14" value="Petugas Pantai Batu Saung" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="810" y="280" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="230" as="sourcePoint" />
             <mxPoint x="910" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-8">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sn5ukvMjIA6OVcdcsHfC-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="280" as="sourcePoint" />
             <mxPoint x="410" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.522;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="280" as="sourcePoint" />
             <mxPoint x="910" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="sn5ukvMjIA6OVcdcsHfC-11">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sn5ukvMjIA6OVcdcsHfC-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="654.5" y="249" as="sourcePoint" />
             <mxPoint x="654.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-19" value="Pak Raiman" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-19" value="Pak Raiman" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="170" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-20" value="Pak Iting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-20" value="Pak Iting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="370" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-21" value="Pak Jhon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-21" value="Pak Jhon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="620" y="320" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sn5ukvMjIA6OVcdcsHfC-22" value="Pak Iyon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sn5ukvMjIA6OVcdcsHfC-22" value="Pak Iyon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="320" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="2W9iKWAKNqXhYnSqwjMz" name="Page-46">
-    <mxGraphModel dx="1820" dy="1087" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1915,7 +2002,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e-py0Fd53wpJzCv-XaH0" name="Page-29">
-    <mxGraphModel dx="1499" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2627,7 +2714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WUeOW4xocvJnwIStr6cf" name="Page-2">
-    <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1499" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
