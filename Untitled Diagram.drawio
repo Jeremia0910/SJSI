@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T08:22:27.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="IYSRFWNM8PM2EiutSXMn" version="21.5.1" type="github" pages="61">
+<mxfile host="app.diagrams.net" modified="2023-06-28T08:32:18.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="N2A6q2w7Z_5P-5I3zwoJ" version="21.5.1" type="github" pages="61">
   <diagram id="jGd9saIlMAcPVEykTeLr" name="Page-62">
     <mxGraphModel dx="1467" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -5198,7 +5198,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fYUcSXCcQRsWs_PT8eyN" name="Page-27">
-    <mxGraphModel dx="1274" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2246" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8424,7 +8424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NJLo_r_QTBF2EkYQQmmL" name="Page-63">
-    <mxGraphModel dx="733" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8432,10 +8432,10 @@
           <mxGeometry x="212.03" y="150" width="60.95" height="40.21" as="geometry" />
         </mxCell>
         <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Observasi&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="30" width="205" height="100" as="geometry" />
+          <mxGeometry x="130" y="30" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Website Wisata Bahari&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="r4Rl8kjOGR4Z8dgOcYOV-25">
-          <mxGeometry x="-5" y="35" width="210" height="40" as="geometry" />
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-26" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Pantai Batu Saung&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;dan &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Pantai Sekitar Anyer&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="r4Rl8kjOGR4Z8dgOcYOV-25">
+          <mxGeometry x="10" y="20" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Pengumpulan Data&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="220" width="205" height="100" as="geometry" />
@@ -8468,7 +8468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-39" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="225.5" y="410" width="34.01" height="31.85" as="geometry" />
+          <mxGeometry x="235.5" y="630" width="34.01" height="31.85" as="geometry" />
         </mxCell>
         <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Menganalisis data yang sudah terkumpul&lt;/span&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="145" y="460" width="200" height="40" as="geometry">
@@ -8483,8 +8483,29 @@
             <mxRectangle x="490" y="130" width="205" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-43" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;arrowWidth=0.418942961800102;arrowSize=0.3556797020484146;" vertex="1" parent="1">
-          <mxGeometry x="552.93" y="518.92" width="30" height="30" as="geometry" />
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-44" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="553" y="520" width="34.01" height="31.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Merancang sistem&lt;/span&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="470.01" y="570" width="200" height="40" as="geometry">
+            <mxRectangle x="490" y="130" width="205" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-46" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="393.46999999999997" y="570" width="34.01" height="31.85" as="geometry" />
+        </mxCell>
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-47" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 16px; font-weight: normal;&quot;&gt;Implementasi dan Pengujian Website Wisata Pantai Bahari&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="135" y="570" width="230" height="40" as="geometry">
+            <mxRectangle x="490" y="130" width="205" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4Rl8kjOGR4Z8dgOcYOV-50" value="" style="shape=singleArrow;direction=east;whiteSpace=wrap;html=1;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="420" width="34.01" height="31.85" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNbRPYzmXE4ZLdkF0a2-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Hasil&lt;/span&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="152.5" y="680" width="200" height="40" as="geometry">
+            <mxRectangle x="490" y="130" width="205" height="100" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
