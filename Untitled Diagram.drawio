@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T10:46:25.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vvKNsir_QD0CHcR2lHU0" version="21.5.1" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2023-06-28T10:51:02.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="CloJL59gcrSBKMi-wLuI" version="21.5.1" type="github" pages="62">
   <diagram id="NJLo_r_QTBF2EkYQQmmL" name="Page-63">
     <mxGraphModel dx="1472" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8748,7 +8748,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9NL-yWll1sMzO7dqpH9V" name="Page-65">
-    <mxGraphModel dx="1015" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8815,7 +8815,7 @@
             <mxPoint x="99.5" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="On76V4SGXB0xUQTmgrX7-16" value="User melihat halaman &quot;home&quot; yang berisi video singkat tentang pantai dan beberapa penjelasan halaman home tersebut" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
+        <mxCell id="On76V4SGXB0xUQTmgrX7-16" value="User melihat halaman &quot;beranda&quot; yang berisi video singkat tentang pantai dan beberapa penjelasan halaman beranda tersebut" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
           <mxGeometry x="10" y="690" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="On76V4SGXB0xUQTmgrX7-17" value="User mengamati halaman &quot;tentang kami&quot; dan melihat beberapa penjelasan tentang beberapa pantai" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
@@ -8830,8 +8830,8 @@
         <mxCell id="On76V4SGXB0xUQTmgrX7-19" value="User Membuka halaman &quot;Wisata&quot; yang isinya beberapa penjelasan wisata untuk pengunjung baru" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.21;rounded=0;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
           <mxGeometry x="17.5" y="920" width="165" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="On76V4SGXB0xUQTmgrX7-53" value="User kembali ke menu tentang dan mengkilk tombol &quot;visit now&quot; yang berarti akan ditujukan ke menu maps" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
-          <mxGeometry x="17.5" y="1081" width="140" height="80" as="geometry" />
+        <mxCell id="On76V4SGXB0xUQTmgrX7-53" value="User mengklik tombol tentang kami dan akan muncul beberapa penjelasan dan user mengklik tombol &quot;visit now&quot; dan mengarah ke halaman maps" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" vertex="1" parent="On76V4SGXB0xUQTmgrX7-2">
+          <mxGeometry x="17.5" y="1081" width="142.5" height="99" as="geometry" />
         </mxCell>
         <mxCell id="On76V4SGXB0xUQTmgrX7-55" value="" style="elbow=horizontal;endArrow=classic;html=1;rounded=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="On76V4SGXB0xUQTmgrX7-2" target="On76V4SGXB0xUQTmgrX7-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -8996,8 +8996,8 @@
             <mxPoint x="115.04000000000042" y="760" as="sourcePoint" />
             <mxPoint x="-300" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-70" y="760" />
-              <mxPoint x="-70" y="800" />
+              <mxPoint x="-80" y="760" />
+              <mxPoint x="-80" y="800" />
               <mxPoint x="-300" y="800" />
             </Array>
           </mxGeometry>
