@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T04:28:43.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="RkVCP4eaeDW8ZcXiG9px" version="21.5.1" type="github" pages="65">
+<mxfile host="app.diagrams.net" modified="2023-07-01T04:35:01.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="CTPZiMleLpyqllxIr6GL" version="21.5.1" type="github" pages="65">
   <diagram id="w4AfMtBIRnQ0CeBSFL18" name="Page-66">
     <mxGraphModel dx="1888" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8771,6 +8771,96 @@
         </mxCell>
         <mxCell id="rWUuC4l0p1OTBAduhc33-44" value="Penjelasan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-45" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#x9;Beach Trip &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Beranda &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Tentang Kami Wisata Perjalanan Maps &lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="100" width="424" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-46" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="424" height="296" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-47" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="789" y="152" width="380" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="809.5" y="160" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-49" value="Gambar dan Tulisan keindahan pantai anyer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865" y="160" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="809" y="205" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="809" y="370" width="341" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-55" value="Tampilan footer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="375" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="880" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="950" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="900" y="258" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="809" y="250" width="71" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-68" value="Halaman Wisata&lt;span class=&quot;markedContent&quot; id=&quot;page406R_mcid21&quot;&gt;&lt;span style=&quot;left: 212.987px; top: 782.075px; font-size: 16px; font-family: sans-serif; transform: scaleX(0.894055);&quot; role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="35" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-70" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1089.5" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-71" value="Pelayanan kami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="922.5" y="180" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-72" value="tools a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="810" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-73" value="tools b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-74" value="tools c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-75" value="tools d" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-76" value="tools e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1089.5" y="205" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-77" value="Pantai C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="809" y="253" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-78" value="Penjelasan pantai c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="950" y="253" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-79" value="semua wisata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-80" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="944" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;align=left;" vertex="1" parent="1">
+          <mxGeometry x="804.5" y="320" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-82" value="pantai a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="814.5" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-83" value="pantai b" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="954" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rWUuC4l0p1OTBAduhc33-84" value="pantai c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1089.5" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
