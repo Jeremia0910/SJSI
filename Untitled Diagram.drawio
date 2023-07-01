@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T03:18:27.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="ARzALOGq2MxcHx1zxCHw" version="21.5.1" type="github" pages="64">
+<mxfile host="app.diagrams.net" modified="2023-07-01T03:22:25.242Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="KBoop6V1ByncLpqEnFTD" version="21.5.1" type="github" pages="64">
   <diagram id="w4AfMtBIRnQ0CeBSFL18" name="Page-66">
     <mxGraphModel dx="1888" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -9369,6 +9369,89 @@
         </mxCell>
         <mxCell id="dSThHsvMGe8kYjIPzsQZ-62" value="ACTIVITY DIAGRAM MENU WISATA " style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="10" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-63" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="640" width="420" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-64" value="User" style="swimlane;startSize=40;rounded=1;arcSize=3;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-63">
+          <mxGeometry x="20" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.5" y="310" as="sourcePoint" />
+            <mxPoint x="90" y="346" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-66" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-64">
+          <mxGeometry x="75" y="350" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-73" value="&lt;div&gt;Mengakses Pantai &lt;br&gt;&lt;/div&gt;&lt;div&gt;Terbaik&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-64">
+          <mxGeometry x="30" y="270" width="118.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-67" value="Sistem" style="swimlane;startSize=40;rounded=1;arcSize=1;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-63">
+          <mxGeometry x="220" width="200" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-68" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry x="-125" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-69" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110.5" y="85" as="sourcePoint" />
+            <mxPoint x="-110" y="115" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-109.75" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-70" value="&lt;div&gt;Mengakses menu&lt;/div&gt;&lt;div&gt;&quot;Ulasan&quot;&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry x="-167.5" y="115" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-71" value="&lt;div&gt;Scrool ke bawah &lt;br&gt;&lt;/div&gt;&lt;div&gt;menu ulasan&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry x="-170" y="165" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-72" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-125" y="205" as="sourcePoint" />
+            <mxPoint x="30" y="225" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-125" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-52.5" y="129.5" as="sourcePoint" />
+            <mxPoint x="30" y="130" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-75" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;menu ulasan&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry x="32.5" y="105" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;fontStyle=1" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="91.5" y="155" as="sourcePoint" />
+            <mxPoint x="-60" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="91.5" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-77" value="&lt;div&gt;Menampilkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;beberapa ulasan pengunjung&lt;/div&gt;&lt;div&gt;sebelumnya&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whitespace=wrap;rounded=1;arcSize=32;" vertex="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry x="32.5" y="200" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="dSThHsvMGe8kYjIPzsQZ-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100.25" y="259" as="sourcePoint" />
+            <mxPoint x="-51.25" y="289" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100.25" y="259" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSThHsvMGe8kYjIPzsQZ-79" value="Activity Diagram pada menu Ulasan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="570" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
