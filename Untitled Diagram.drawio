@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T04:09:56.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="t6_rR0JCH6eC4xiRdAHw" version="21.5.1" type="github" pages="61">
+<mxfile host="app.diagrams.net" modified="2023-07-06T10:26:00.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vCmDgzlOu1K43lglempO" version="21.5.1" type="github" pages="61">
   <diagram id="jGd9saIlMAcPVEykTeLr" name="Page-62">
-    <mxGraphModel dx="1295" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,6 +119,24 @@
         </mxCell>
         <mxCell id="WBwM0VEoTl8EN8dTBUxF-20" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;3. &lt;span&gt;Dapat mempermudah masyarakat ataupun para wisatawan dalam memperoleh informasi mengenai objek-objek wisata yang ada didaerah pantai florida dan pantai lainnya.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="688.5" y="690" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="40" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-22" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="70" width="430" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Identifikasi Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-24" value="&lt;div align=&quot;justify&quot;&gt;1. Sebagian besar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokal maupun luar daerah.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="80" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-25" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&amp;nbsp;2. &lt;span&gt;Objek wisata pantai florida tidak dapat mempromosikan fasilitas yang dimiliki karena kurangnya SDM dalam mengembangkan promosi website tersebut.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="173.5" width="400" height="96.5" as="geometry" />
+        </mxCell>
+        <mxCell id="WBwM0VEoTl8EN8dTBUxF-26" value="&lt;div style=&quot;font-size: 15px;&quot; align=&quot;justify&quot;&gt;&lt;span&gt;3.Belum mempunyai website untuk menarik pengunjung lokal ataupun pengunjung dari luar daerah.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="290" width="320" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
