@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T11:16:53.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Mpoy2IbA72kRJbQqLli1" version="21.5.1" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2023-07-07T11:36:26.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="4bhx7kGiqwhCViiaXNZ8" version="21.5.1" type="github" pages="62">
   <diagram id="L2x_LTBGuTbYfTGx8LE-" name="Page-70">
     <mxGraphModel dx="2901" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -20,58 +20,58 @@
           <mxGeometry x="1850" y="294" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="40" width="430" height="430" as="geometry" />
+          <mxGeometry x="1120" y="40" width="520" height="520" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-8" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="70" width="430" height="10" as="geometry" />
+          <mxGeometry x="1120" y="70" width="520" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Identifikasi Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Identifikasi Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1255" y="50" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-10" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;1. Sebagian besar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokal maupun luar daerah.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="80" width="400" height="80" as="geometry" />
+          <mxGeometry x="1133.75" y="95" width="486.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-11" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&amp;nbsp;2. &lt;span&gt;Objek wisata pantai florida tidak dapat mempromosikan fasilitas yang dimiliki karena kurangnya SDM dalam mengembangkan promosi website tersebut.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="173.5" width="400" height="96.5" as="geometry" />
+          <mxGeometry x="1136.88" y="196.75" width="486.25" height="106.5" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-12" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;span&gt;3.Belum mempunyai website untuk menarik pengunjung lokal ataupun pengunjung dari luar daerah.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="290" width="400" height="73" as="geometry" />
+          <mxGeometry x="1131.25" y="319.5" width="487.5" height="94" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-13" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;span&gt;4. Dalam hal mengimplementasi pengembangan SDM mengenai website wisata pantai florida dan beberapa pantai lainnya sebagai sarana promosi pariwisata belum tersedia&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1135" y="377" width="400" height="83" as="geometry" />
+          <mxGeometry x="1130.63" y="430.5" width="489.37" height="119.5" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="560" width="430" height="430" as="geometry" />
+          <mxGeometry x="610" y="590" width="430" height="430" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="590" width="430" height="10" as="geometry" />
+          <mxGeometry x="610" y="620" width="430" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6wfAlLiMw2IwDGWNs_dZ-18" target="6wfAlLiMw2IwDGWNs_dZ-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Rumusan Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="570" width="70" height="20" as="geometry" />
+          <mxGeometry x="745" y="600" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-19" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;&lt;span&gt;1. Bagaimana caranya agar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokalmaupun luar daerah ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="600" width="410" height="90" as="geometry" />
+          <mxGeometry x="620" y="630" width="410" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-20" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;&lt;span&gt;2. Bagaimana merancang website wisata pantai florida anyer dan pantai lainnya sebagai media sarana promosi pariwisata dan dapat memberikan informasi kepada wisatawan lokal maupun luar daerah tentang wisata pantai florida ?&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="710" width="400" height="130" as="geometry" />
+          <mxGeometry x="620" y="740" width="400" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-21" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;3. Bagaimana Implementasi pengembangan SDM mengenai&lt;i&gt; website &lt;/i&gt;wisata pantai florida dan pantai lainnya sebagai sarana promosi pariwisata dan informasi bagi wisatawan?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="858.5" width="400" height="111.5" as="geometry" />
+          <mxGeometry x="620" y="888.5" width="400" height="111.5" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1070" width="340" height="340" as="geometry" />
+          <mxGeometry x="360" y="1155.89" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1100" width="330" height="10" as="geometry" />
+          <mxGeometry x="360" y="1185.89" width="330" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;Metode Penelitian&lt;br&gt;&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="1080" width="70" height="20" as="geometry" />
+          <mxGeometry x="495" y="1165.89" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-25" value="&lt;div style=&quot;font-size: 28px;&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Metode Penelitian yang diambil oleh peneliti dalam merancang website wisata bahari menggunakan tahapan observasi, wawancara, dan studi pustaka&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1120" width="320" height="270" as="geometry" />
+          <mxGeometry x="370" y="1205.89" width="320" height="270" as="geometry" />
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1835" y="560" width="430" height="430" as="geometry" />
@@ -132,22 +132,22 @@
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1325" y="479.78999999999996" as="sourcePoint" />
-            <mxPoint x="1325" y="539.79" as="targetPoint" />
+            <mxPoint x="1376.29" y="570" as="sourcePoint" />
+            <mxPoint x="1376.29" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1325" y="1000.1099999999999" as="sourcePoint" />
-            <mxPoint x="1325" y="1060.11" as="targetPoint" />
+            <mxPoint x="525" y="1086" as="sourcePoint" />
+            <mxPoint x="525" y="1146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6wfAlLiMw2IwDGWNs_dZ-51" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1560" y="1230" as="sourcePoint" />
-            <mxPoint x="1740" y="240" as="targetPoint" />
+            <mxPoint x="1640" y="1226.5" as="sourcePoint" />
+            <mxPoint x="1820" y="236.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1650" y="730" />
+              <mxPoint x="1730" y="726.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,6 +162,24 @@
             <mxPoint x="2049.41" y="1000" as="sourcePoint" />
             <mxPoint x="2049.41" y="1060" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-78" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="645.89" width="514.11" height="514.11" as="geometry" />
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-79" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="675.89" width="520" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Rumusan Masalah&lt;/font&gt;" style="text;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="655.89" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-81" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;p&gt;1. Bagaimana&amp;nbsp; caranya agar objek wisata Pantai Florida dan pantai lainnya belum dikenal secara luas baik wisatawan lokal maupun luar daerah ?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1131.25" y="715.4499999999999" width="486.25" height="119.11" as="geometry" />
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-82" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;left&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;p&gt;2. Bagaimana&amp;nbsp; merancang website wisata pantai florida anyer dan pantai lainnya sebagai media sarana promosi pariwisata dan dapat memberikan informasi kepada wisatawan lokal maupun luar daerah tentang wisata pantai florida ?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1128.44" y="866.32" width="493.12" height="117.36" as="geometry" />
+        </mxCell>
+        <mxCell id="6wfAlLiMw2IwDGWNs_dZ-83" value="&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot; align=&quot;justify&quot;&gt;3. Bagaimana Implementasi pengembangan SDM mengenai&lt;i&gt; website &lt;/i&gt;wisata pantai florida dan pantai lainnya sebagai sarana promosi pariwisata dan informasi bagi wisatawan?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="1008" width="495" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
