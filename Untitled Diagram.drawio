@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:32:41.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="fiwWRY2xcDTr0rfnckf7" version="21.6.2" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:33:22.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="jesQzn0orIaSSW0boFHs" version="21.6.2" type="github" pages="62">
   <diagram id="Kwiq0B4fwXU45C-5wUuJ" name="Page-8">
     <mxGraphModel dx="880" dy="414" grid="1" gridSize="13" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9522,6 +9522,12 @@
         </mxCell>
         <mxCell id="Q6ioMAYolb1gv0Ekt06K-36" value="Alamat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6ioMAYolb1gv0Ekt06K-37" value="Tujuan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="857" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6ioMAYolb1gv0Ekt06K-38" value="Berapa orang" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="860" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
