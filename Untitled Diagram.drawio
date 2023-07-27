@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T05:52:58.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uggDzGDuwM9OYZDLOZMU" version="21.6.2" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:53:12.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="SKST0RBYxiNta3qCRNEU" version="21.6.2" type="github" pages="62">
   <diagram id="9NL-yWll1sMzO7dqpH9V" name="Page-65">
     <mxGraphModel dx="1687" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -9400,7 +9400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JCaWr50jeMKwxgk69eyb" name="Page-49">
-    <mxGraphModel dx="1647" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2364" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9753,7 +9753,7 @@
           <mxGeometry x="947.75" y="601" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q6ioMAYolb1gv0Ekt06K-2" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#x9;Beach Trip &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Beranda &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Tentang Kami Wisata Perjalanan Maps &lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="793.25" y="661" width="424" height="40" as="geometry" />
+          <mxGeometry x="793.25" y="661" width="446.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q6ioMAYolb1gv0Ekt06K-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="792.75" y="701" width="447.25" height="339" as="geometry" />
