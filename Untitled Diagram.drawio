@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T05:25:55.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="b7Q4FXUm5I7AGbLxZTEX" version="21.6.2" type="github" pages="62">
+<mxfile host="app.diagrams.net" modified="2023-07-27T05:31:23.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="zWbvJVxqqKGdIcZ0fEMS" version="21.6.2" type="github" pages="62">
   <diagram id="9NL-yWll1sMzO7dqpH9V" name="Page-65">
     <mxGraphModel dx="1687" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -6603,8 +6603,8 @@
         <mxCell id="Z52eLuxI5D1i-9j6WTEY-41" value="Tentang Kami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="455" y="940" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z52eLuxI5D1i-9j6WTEY-42" value="Wisata" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="615" y="940" width="60" height="30" as="geometry" />
+        <mxCell id="Z52eLuxI5D1i-9j6WTEY-42" value="Pelayanan Kami" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="590" y="940" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z52eLuxI5D1i-9j6WTEY-43" value="Ulasan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="745" y="940" width="60" height="30" as="geometry" />
@@ -6652,6 +6652,25 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gGcK5etChOFzlI1QlPNy-1" value="" style="shape=umlLifeline;participant=umlEntity;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="980" width="40" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="gGcK5etChOFzlI1QlPNy-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="gGcK5etChOFzlI1QlPNy-1">
+          <mxGeometry x="15" y="390" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gGcK5etChOFzlI1QlPNy-3" value="User input contact form" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="920" y="1220.49" as="sourcePoint" />
+            <mxPoint x="1060" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="1220.49" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gGcK5etChOFzlI1QlPNy-4" value="Pesanan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="940" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
